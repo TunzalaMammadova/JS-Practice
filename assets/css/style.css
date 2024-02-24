@@ -1,0 +1,28 @@
+.input-text{
+    width: 600px;
+    margin-left: 300px;
+    border: 1px solid black;
+}
+
+.validation{
+    margin-left: 300px;
+}
+
+.list-group{
+    margin-left: 300px;
+    width: 600px;
+    
+}
+
+.btn1{
+    margin-left: 550px;
+    
+}
+
+.add{
+    margin-left: 300px;
+}
+
+.error{
+    margin-left: 300px;
+}
